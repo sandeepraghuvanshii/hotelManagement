@@ -29,10 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to Java stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
+- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 
@@ -92,4 +89,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
